@@ -1,1 +1,198 @@
+body{
+ background-image: url(fundo_body.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.container{
+	margin: 0px;
+
+}
+
+.image{
+background-image: url(fundo.png);
+background-size: 1500px 300px;
+}
+
+.lobo{ /*LOGO*/
+width:100%;
+}
+
+button{
+	color: black;
+}
+
+.sobre h2{
+font-family: 'Poppins', sans-serif;
+font-size: 70px ;
+margin-top: -5%;
+color: white;
+text-shadow: 2px 2px 4px black;
+}
+
+.sobre{
+background-repeat: no-repeat;
+margin-top: 5%;
+font-family: 'Poppins', sans-serif;
+text-shadow: 2px 2px 4px black;
+color: white;
+padding: 5%;
+width: 100%;
+}
+
+.card-body{
+ font-size: 23px;
+
+}
+
+
+.lobo_mal{
+margin-top: -8%;
+}
+
+.carousel-caption h5{
+	color: black;
+
+}
+
+.carousel-caption h5 p{
+	color: black;
+	text-shadow: 2px 2px 4px white;
+}
+
+/*REDES SOCIAIS LOBOS DO NORTE*/
+
+h1 { 
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  text-shadow: 2px 2px 4px black;
+  margin: 2rem 1rem;
+  width: 24ch;
+  overflow: hidden;
+  color: #FFF;
+  white-space: nowrap;
+  animation: caret .5s step-end infinite alternate,
+             type 5s steps(23, end)
+}
+
+
+.pix{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px black;
+  color: white;
+}
+
+.qrcode{
+background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);	
+border: solid transparent;
+background-color: white;
+width: 220px;
+}
+
+.image-2{
+	background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwoICAgICA0IBwcHCAoHBwcHCA8ICQcKFREWIiARHxUYHSggGBolGx8TITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDw8PDysZFRkrLSs3KysrKzctNy0tNy0rKystKys3KzcrLSsrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAABAAIDBAf/xAAXEAEBAQEAAAAAAAAAAAAAAAAAAREC/8QAGgEBAQEBAQEBAAAAAAAAAAAAAQIAAwQFBv/EABgRAQEBAQEAAAAAAAAAAAAAAAABEQIS/9oADAMBAAIRAxEAPwD450EY/Z44QyNQRqB15MbjMaGO3LUajMagx1jUbjMbkMjtyYUYbHWGFlqJXCWSy4iyUkpamKSTMglWCCQCCAoTJATUyWU1NQqFTUqs0ioqaKFUmpeNqCGPdr5UjUbjEah11jcajMahduWo1BGocdY1I3BGl+cdokNGufVXrUp1iVqVGqlbWs6m1etaWToOo6ymOtK0Jm1aggNSQZtQLNCUFoTQgglKrNNFTU0UVUVFTUFQlLzRqCGPa+dI1GoI1FR0hjcjMbi5HSGNxlarcdY6SrWJTqb1rpK1qZ1OVqtaaZh1lxrSxKdZUrVo0aRp0llMdaTKY6dWhaBp0BBkkyBqCQSAQmpAQqKlVk1mpqaqFUjQ4RqCNR7Y8MhjcELrHSQxuMxqKi4SFBa6QllOdqo0gYlUahZh0rhWjUDrSlZIVrWpnSTrQBYpBAaQEG1BUCp0hBI1M6QkAU1lNSqKqKi1NFSoQGGozGo93NeWRqGCGOsqo0YE2rjSBFVEQYlUTWs6k6qNahqGq0nWS2knWS2q06YyWhaGoFtKCDatQQZBBI0spJSghqaAKaympVFVFRQqFQlKjUZjUe3muOGGArlVGloDXotSta561onaobVrKTelNagtTpaOsrW060WSVa0hqJ1qFkkkJNp1IIDUgtTW1aEE6CEyNB0IJo0CqpFqRRVRUWhUIJ1LUaZL1TpDWrQleiUE3okysmJlYpI6SgRqigSWkydVpaTJbS1q1lNp1pBa2sUNGtraUNA1joQTaNICToQQRaEEKmhMkJqRUqEBshO06YoJXpikm1kYFG1moRCspIsUkiSgjpJCYlBDWOrQm1tOrQG1ta0aENbUkE6EgtTay0IVNCoQTUoVUVNCoITobQKpVIhK0FBHWJCVpajTMK4xISitSTEoJtbSghraUExKCZigtGsdGhDQQgNYhABBJIQQqayFQqaEgkJbSRlWUCrWSSVKxSiiozUITpKSgTrJBNrFBDWKCZikmZJJmSCZiEgySAZIIaEEEsqCEBUKhNCqQSHRJNHSpJKjFJKBiSXGKKVCkkWSSLJJBkkiySTMkkzJJBgkmZBIBBJLIJJAVSAApSaGakkM/9k=);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body{
+ background-image: url(fundo_body.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.container{
+	margin: 0px;
+
+}
+
+.image{
+background-image: url(fundo.png);
+background-size: 1500px 300px;
+}
+
+.lobo{ /*LOGO*/
+width:100%;
+}
+
+button{
+	color: black;
+}
+
+.sobre h2{
+font-family: 'Poppins', sans-serif;
+font-size: 70px ;
+margin-top: -5%;
+color: white;
+text-shadow: 2px 2px 4px black;
+}
+
+.sobre{
+background-repeat: no-repeat;
+margin-top: 5%;
+font-family: 'Poppins', sans-serif;
+text-shadow: 2px 2px 4px black;
+color: white;
+padding: 5%;
+width: 100%;
+}
+
+.card-body{
+ font-size: 23px;
+
+}
+
+
+.lobo_mal{
+margin-top: -8%;
+}
+
+.carousel-caption h5{
+	color: black;
+
+}
+
+.carousel-caption h5 p{
+	color: black;
+	text-shadow: 2px 2px 4px white;
+}
+
+/*REDES SOCIAIS LOBOS DO NORTE*/
+
+h1 { 
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  text-shadow: 2px 2px 4px black;
+  margin: 2rem 1rem;
+  width: 24ch;
+  overflow: hidden;
+  color: #FFF;
+  white-space: nowrap;
+  animation: caret .5s step-end infinite alternate,
+             type 5s steps(23, end)
+}
+
+.pix{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px black;
+  color: white;
+}
+
+.qrcode{
+background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);	
+border: solid transparent;
+background-color: white;
+width: 220px;
+}
+
+.image-2{
+	background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwoICAgICA0IBwcHCAoHBwcHCA8ICQcKFREWIiARHxUYHSggGBolGx8TITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDw8PDysZFRkrLSs3KysrKzctNy0tNy0rKystKys3KzcrLSsrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAABAAIDBAf/xAAXEAEBAQEAAAAAAAAAAAAAAAAAAREC/8QAGgEBAQEBAQEBAAAAAAAAAAAAAQIAAwQFBv/EABgRAQEBAQEAAAAAAAAAAAAAAAABEQIS/9oADAMBAAIRAxEAPwD450EY/Z44QyNQRqB15MbjMaGO3LUajMagx1jUbjMbkMjtyYUYbHWGFlqJXCWSy4iyUkpamKSTMglWCCQCCAoTJATUyWU1NQqFTUqs0ioqaKFUmpeNqCGPdr5UjUbjEah11jcajMahduWo1BGocdY1I3BGl+cdokNGufVXrUp1iVqVGqlbWs6m1etaWToOo6ymOtK0Jm1aggNSQZtQLNCUFoTQgglKrNNFTU0UVUVFTUFQlLzRqCGPa+dI1GoI1FR0hjcjMbi5HSGNxlarcdY6SrWJTqb1rpK1qZ1OVqtaaZh1lxrSxKdZUrVo0aRp0llMdaTKY6dWhaBp0BBkkyBqCQSAQmpAQqKlVk1mpqaqFUjQ4RqCNR7Y8MhjcELrHSQxuMxqKi4SFBa6QllOdqo0gYlUahZh0rhWjUDrSlZIVrWpnSTrQBYpBAaQEG1BUCp0hBI1M6QkAU1lNSqKqKi1NFSoQGGozGo93NeWRqGCGOsqo0YE2rjSBFVEQYlUTWs6k6qNahqGq0nWS2knWS2q06YyWhaGoFtKCDatQQZBBI0spJSghqaAKaympVFVFRQqFQlKjUZjUe3muOGGArlVGloDXotSta561onaobVrKTelNagtTpaOsrW060WSVa0hqJ1qFkkkJNp1IIDUgtTW1aEE6CEyNB0IJo0CqpFqRRVRUWhUIJ1LUaZL1TpDWrQleiUE3okysmJlYpI6SgRqigSWkydVpaTJbS1q1lNp1pBa2sUNGtraUNA1joQTaNICToQQRaEEKmhMkJqRUqEBshO06YoJXpikm1kYFG1moRCspIsUkiSgjpJCYlBDWOrQm1tOrQG1ta0aENbUkE6EgtTay0IVNCoQTUoVUVNCoITobQKpVIhK0FBHWJCVpajTMK4xISitSTEoJtbSghraUExKCZigtGsdGhDQQgNYhABBJIQQqayFQqaEgkJbSRlWUCrWSSVKxSiiozUITpKSgTrJBNrFBDWKCZikmZJJmSCZiEgySAZIIaEEEsqCEBUKhNCqQSHRJNHSpJKjFJKBiSXGKKVCkkWSSLJJBkkiySTMkkzJJBgkmZBIBBJLIJJAVSAApSaGakkM/9k=);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
 
